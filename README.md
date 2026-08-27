@@ -4,7 +4,7 @@ Simple tutorial for installing assembly games onto the TI-84 CE:
 Things needed:
 - TI-84 CE or TI-84 CE Python calculator.
 - Its charging cable
-- A computer
+- A windows computer
 
 # Installing everything you need:
 1. Get your calculator, its charging cable, and a computer.
