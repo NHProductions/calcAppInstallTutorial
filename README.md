@@ -29,13 +29,13 @@ Things needed:
 If you are here for games, below are my apps that are made for the TI84 CE.
 
 Games:
-[Oregon Trail](https://github.com/NHProductions/OregonTrail) - Semi accurate recreation of the Oregon Trail
-[Minesweeper](https://github.com/NHProductions/TI-84-CE-Programs/tree/main/SWEP) - Minesweeper for the TI84 CE.
-[Blackjack](https://github.com/NHProductions/TI-84-CE-Programs/tree/main/BLCKJK) - Blackjack for the TI84 CE.
-[Tetris](https://github.com/NHProductions/TI-84-CE-Programs/tree/main/TETRIS) - Semi-accurate recreation of tetris (semi-accurate as in totally different graphics but essentially same gameplay)
-[Pong](https://github.com/NHProductions/TI-84-CE-Programs/tree/main/PONG) - This one is one of the first games I created for the TI84 CE, so it's quite buggy, but it works okay enough.
-
-Apps:
-[Crimson CAS](https://github.com/NHProductions/CrimsonCAS) - Computer Algebra System (Quite buggy, but it works alright for things like systems & algebraic equations)
-[Blusky](https://github.com/NHProductions/Blusky) - Not really recommended to use this one; Cesium already does basically all the things this does. This is essentially a file explorerer for the TI84 CE; however, it's quite buggy lol.
-[Atlas](https://github.com/NHProductions/Atlas) - This is a video player for the TI84 CE. Setup is quite complicated, but if you have experience in python, then you're probably able to set this up and convert videos for the TI84 CE.
+[Oregon Trail](https://github.com/NHProductions/OregonTrail) - Semi accurate recreation of the Oregon Trail  
+[Minesweeper](https://github.com/NHProductions/TI-84-CE-Programs/tree/main/SWEP) - Minesweeper for the TI84 CE.  
+[Blackjack](https://github.com/NHProductions/TI-84-CE-Programs/tree/main/BLCKJK) - Blackjack for the TI84 CE.  
+[Tetris](https://github.com/NHProductions/TI-84-CE-Programs/tree/main/TETRIS) - Semi-accurate recreation of tetris (semi-accurate as in totally different graphics but essentially same gameplay)  
+[Pong](https://github.com/NHProductions/TI-84-CE-Programs/tree/main/PONG) - This one is one of the first games I created for the TI84 CE, so it's quite buggy, but it works okay enough.  
+  
+Apps:  
+[Crimson CAS](https://github.com/NHProductions/CrimsonCAS) - Computer Algebra System (Quite buggy, but it works alright for things like systems & algebraic equations)  
+[Blusky](https://github.com/NHProductions/Blusky) - Not really recommended to use this one; Cesium already does basically all the things this does. This is essentially a file explorerer for the TI84 CE; however, it's quite buggy lol.  
+[Atlas](https://github.com/NHProductions/Atlas) - This is a video player for the TI84 CE. Setup is quite complicated, but if you have experience in python, then you're probably able to set this up and convert videos for the TI84 CE.  
