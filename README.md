@@ -28,7 +28,7 @@ Things needed:
 
 If you are here for games, below are my apps that are made for the TI84 CE.
 
-Games:
+Games:  
 [Oregon Trail](https://github.com/NHProductions/OregonTrail) - Semi accurate recreation of the Oregon Trail  
 [Minesweeper](https://github.com/NHProductions/TI-84-CE-Programs/tree/main/SWEP) - Minesweeper for the TI84 CE.  
 [Blackjack](https://github.com/NHProductions/TI-84-CE-Programs/tree/main/BLCKJK) - Blackjack for the TI84 CE.  
