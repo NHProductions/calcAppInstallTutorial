@@ -27,7 +27,7 @@ Things needed:
 4. Go to apps, and select Cesium. In cesium, you will see all the games/apps you have downloaded. Select a game/app you want to play, and press enter.
 
 # Starting List of things to consider installing
-If you are here for games, below are my apps that are made for the TI84 CE. 
+Below are apps and games I've made for the TI-84 CE
 
 ## Games:  
 [Oregon Trail](https://github.com/NHProductions/OregonTrail) - Semi accurate recreation of the Oregon Trail  
